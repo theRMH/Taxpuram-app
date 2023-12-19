@@ -1,1 +1,13 @@
 AIzaSyABCrcFZGsgaMYz1Ub-3SVhCzLz9doxunI
+
+
+
+// Runner.xcconfig
+
+// Development environment
+FLUTTER_TARGET=lib/main_dev.dart
+MY_API_KEY=your_dev_api_key
+
+// Production environment
+// FLUTTER_TARGET=lib/main_prod.dart
+// MY_API_KEY=your_prod_api_key
